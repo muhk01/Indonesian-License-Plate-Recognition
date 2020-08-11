@@ -7,6 +7,5 @@ Recognize any local indonesian plates using Tensorflow
 
 # Result
 
-![alt text](https://github.com/muhk01/Indonesian-License-Plate-Recognition/blob/master/Inference/1.jpeg?raw=true)
-![alt text](https://github.com/muhk01/Indonesian-License-Plate-Recognition/blob/master/Inference/2.jpeg?raw=true)
+![alt text](https://github.com/muhk01/Indonesian-License-Plate-Recognition/blob/master/Inference/1.jpeg?raw=true) ![alt text](https://github.com/muhk01/Indonesian-License-Plate-Recognition/blob/master/Inference/2.jpeg?raw=true)
 ![alt text](https://github.com/muhk01/Indonesian-License-Plate-Recognition/blob/master/Inference/3.jpeg?raw=true)
